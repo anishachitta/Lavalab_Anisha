@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Your App Name",
-  description: "Your app description",
+  title: "Lavalab Inventory App",
+  description: "Lavalab Assessment",
 };
 
 export default function RootLayout({ children }) {
